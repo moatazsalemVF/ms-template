@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"utils"
 
 	"github.com/gin-gonic/gin"
-	utils "github.com/gin-gonic/gin"
 )
 
 func main() {
