@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"utils"
+
+	"github.com/moatazsalemVF/ms-template/utils"
 
 	"github.com/gin-gonic/gin"
 )
